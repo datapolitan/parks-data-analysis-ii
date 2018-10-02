@@ -1,0 +1,6 @@
+.DS_Store
+images/_rejects/*
+data/_rejects/*
+*.qgs*
+*.pptx
+prep/
